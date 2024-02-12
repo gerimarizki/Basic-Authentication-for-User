@@ -1,0 +1,14 @@
+D:\C# Latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.AssemblyInfoInputs.cache
+D:\C# Latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.AssemblyInfo.cs
+D:\C# Latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.csproj.CoreCompileInputs.cache
+D:\C# Latihan\BasicAuth\BasicAuth\bin\Debug\net6.0\BasicAuth.exe
+D:\C# Latihan\BasicAuth\BasicAuth\bin\Debug\net6.0\BasicAuth.deps.json
+D:\C# Latihan\BasicAuth\BasicAuth\bin\Debug\net6.0\BasicAuth.runtimeconfig.json
+D:\C# Latihan\BasicAuth\BasicAuth\bin\Debug\net6.0\BasicAuth.dll
+D:\C# Latihan\BasicAuth\BasicAuth\bin\Debug\net6.0\BasicAuth.pdb
+D:\C# Latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.dll
+D:\C# Latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\refint\BasicAuth.dll
+D:\C# Latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.pdb
+D:\C# Latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.genruntimeconfig.cache
+D:\C# Latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\ref\BasicAuth.dll
